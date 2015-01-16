@@ -1,0 +1,9 @@
+{
+  "name": "raven-js",
+  "version": "1.1.11",
+  "main": "./dist/raven.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/christianv/raven-js-temp.git"
+  }
+}
