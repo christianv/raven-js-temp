@@ -1,5 +1,4 @@
-# Raven.js Temp
+# [Deprecated] Raven.js Temp
 
-This is a temporary repository until these issues have been fixed:
-https://github.com/defunctzombie/raven-js/pull/1
-https://github.com/getsentry/raven-js/issues/197
+Since [raven-js#197](https://github.com/getsentry/raven-js/issues/197) is now fixed, please use [raven-js](https://www.npmjs.com/package/raven-js) instead.
+
